@@ -1,4 +1,4 @@
-# Senzor Studio Portfolio Template
+# Senzor Studio
 
 ## Description
 Setup Procedure
