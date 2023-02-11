@@ -1,4 +1,4 @@
-# Tokyo React Personal Portfolio Template
+# Senzor Studio Portfolio Template
 
 ## Description
 Setup Procedure
